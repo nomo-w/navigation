@@ -1,0 +1,16 @@
+[2020-12-11 02:36:19] [DEBUG] [request] : 117.136.122.225 GET => /api/get_config : 【ImmutableMultiDict([( t ,  simple )])】
+[2020-12-11 02:36:22] [DEBUG] [request] : 117.136.122.225 GET => /nav/main : 【ImmutableMultiDict([])】
+[2020-12-11 09:59:52] [DEBUG] [request] : 171.13.14.54 GET => /nav/main : 【ImmutableMultiDict([])】
+[2020-12-11 10:02:22] [DEBUG] [request] : 171.13.14.83 GET => /nav/main : 【ImmutableMultiDict([])】
+[2020-12-11 14:14:53] [DEBUG] [request] : 110.182.128.53 GET => /api/get_config : 【ImmutableMultiDict([( t ,  simple )])】
+[2020-12-11 14:14:54] [DEBUG] [request] : 110.182.128.53 GET => /nav/main : 【ImmutableMultiDict([])】
+[2020-12-11 14:16:17] [DEBUG] [request] : 42.236.10.117 GET => /api/get_config : 【ImmutableMultiDict([( t ,  simple )])】
+[2020-12-11 14:17:12] [DEBUG] [request] : 42.236.10.114 GET => /nav/main : 【ImmutableMultiDict([])】
+[2020-12-11 14:18:02] [DEBUG] [request] : 180.163.220.67 GET => /nav/main : 【ImmutableMultiDict([])】
+[2020-12-11 14:18:12] [DEBUG] [request] : 180.163.220.67 GET => /nav/main : 【ImmutableMultiDict([])】
+[2020-12-11 15:11:06] [DEBUG] [request] : 110.182.128.53 GET => /api/get_config : 【ImmutableMultiDict([( t ,  simple )])】
+[2020-12-11 15:11:07] [DEBUG] [request] : 110.182.128.53 GET => /nav/main : 【ImmutableMultiDict([])】
+[2020-12-11 15:11:14] [DEBUG] [request] : 110.182.128.53 GET => /nav/main : 【ImmutableMultiDict([])】
+[2020-12-11 17:24:22] [DEBUG] [request] : 124.105.80.42 GET => /api/get_config : 【ImmutableMultiDict([( t ,  simple )])】
+[2020-12-11 17:24:44] [DEBUG] [request] : 124.105.80.42 GET => /nav/xinlangxinwen : 【ImmutableMultiDict([])】
+[2020-12-11 17:25:08] [DEBUG] [request] : 124.105.80.42 GET => /nav/xinlangxinwen错了 : 【ImmutableMultiDict([])】

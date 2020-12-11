@@ -1,0 +1,9 @@
+[2020-12-10 13:05:39] [DEBUG] [request] : 114.246.213.54 GET => /api/get_config : 【ImmutableMultiDict([( t ,  simple )])】
+[2020-12-10 16:13:16] [DEBUG] [request] : 110.182.128.53 GET => /api/get_config : 【ImmutableMultiDict([( t ,  simple )])】
+[2020-12-10 16:13:17] [DEBUG] [request] : 110.182.128.53 GET => /nav/main : 【ImmutableMultiDict([])】
+[2020-12-10 16:18:54] [DEBUG] [request] : 110.182.128.53 GET => /api/get_config : 【ImmutableMultiDict([( t ,  simple )])】
+[2020-12-10 16:18:56] [DEBUG] [request] : 110.182.128.53 GET => /nav/main : 【ImmutableMultiDict([])】
+[2020-12-10 16:22:44] [DEBUG] [request] : 42.236.10.75 GET => /nav/main : 【ImmutableMultiDict([])】
+[2020-12-10 16:23:36] [DEBUG] [request] : 42.236.10.117 GET => /nav/main : 【ImmutableMultiDict([])】
+[2020-12-10 16:23:42] [DEBUG] [request] : 42.236.10.78 GET => /api/get_config : 【ImmutableMultiDict([( t ,  simple )])】
+[2020-12-10 16:25:33] [DEBUG] [request] : 42.236.10.78 GET => /api/get_config : 【ImmutableMultiDict([( t ,  simple )])】
